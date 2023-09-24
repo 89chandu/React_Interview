@@ -1,5 +1,5 @@
 
-///   ************      Satatte in React In Functional Components ****************  /////////
+///   ************      State in React In Functional Components ****************  /////////
 
 // note : state is private to its components 
 
